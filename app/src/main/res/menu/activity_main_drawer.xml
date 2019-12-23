@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_page1"
+            android:icon="@drawable/ic_page"
+            android:title="Page1" />
+        <item
+            android:id="@+id/nav_page2"
+            android:icon="@drawable/ic_page"
+            android:title="Page2" />
+        <item
+            android:id="@+id/nav_page3"
+            android:icon="@drawable/ic_page"
+            android:title="Page3" />
+    </group>
+</menu>
